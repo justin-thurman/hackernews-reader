@@ -1,0 +1,182 @@
+[
+  {
+    "position": 1,
+    "title": "We can now fix McDonald's ice cream machines (ifixit.com)",
+    "link": "https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines",
+    "points": 323
+  },
+  {
+    "position": 2,
+    "title": "Universal optimality of Dijkstra via beyond-worst-case heaps (arxiv.org)",
+    "link": "https://arxiv.org/abs/2311.11793",
+    "points": 118
+  },
+  {
+    "position": 3,
+    "title": "Company named \"><SCRIPT SRC=HTTPS://MJT.XSS.HT> LTD\" forced to change it (2020) (theguardian.com)",
+    "link": "https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk",
+    "points": 296
+  },
+  {
+    "position": 4,
+    "title": "In the US, regenerative farming practices require unlearning past advice (investigatemidwest.org)",
+    "link": "https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/",
+    "points": 36
+  },
+  {
+    "position": 5,
+    "title": "OmniParser for Pure Vision Based GUI Agent (microsoft.github.io)",
+    "link": "https://microsoft.github.io/OmniParser/",
+    "points": 67
+  },
+  {
+    "position": 6,
+    "title": "Detecting when LLMs are uncertain (thariq.io)",
+    "link": "https://www.thariq.io/blog/entropix/",
+    "points": 163
+  },
+  {
+    "position": 7,
+    "title": "Wikipedia article blocked worldwide by Delhi high court (wikipedia.org)",
+    "link": "https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation",
+    "points": 68
+  },
+  {
+    "position": 8,
+    "title": "Electro-agriculture: Revolutionizing farming for a sustainable future (cell.com)",
+    "link": "https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X",
+    "points": 49
+  },
+  {
+    "position": 9,
+    "title": "SELinux bypasses (klecko.github.io)",
+    "link": "https://klecko.github.io/posts/selinux-bypasses/",
+    "points": 91
+  },
+  {
+    "position": 10,
+    "title": "Streaming joins are hard (estuary.dev)",
+    "link": "https://estuary.dev/streaming-joins-are-hard/",
+    "points": 52
+  },
+  {
+    "position": 11,
+    "title": "A deep dive into Linux's new mseal syscall (trailofbits.com)",
+    "link": "https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/",
+    "points": 146
+  },
+  {
+    "position": 12,
+    "title": "Pygfx (pygfx.org)",
+    "link": "https://docs.pygfx.org/stable/index.html",
+    "points": 111
+  },
+  {
+    "position": 13,
+    "title": "Battleships Logic Puzzle (lukerissacher.com)",
+    "link": "https://lukerissacher.com/battleships",
+    "points": 142
+  },
+  {
+    "position": 14,
+    "title": "Astronomers discover complex carbon molecules in interstellar space (sciencealert.com)",
+    "link": "https://www.sciencealert.com/astronomers-discover-complex-carbon-molecules-in-interstellar-space",
+    "points": 64
+  },
+  {
+    "position": 15,
+    "title": "Category Theory Illustrated: Logic (2021) (abuseofnotation.github.io)",
+    "link": "https://abuseofnotation.github.io/category-theory-illustrated/05_logic/",
+    "points": 172
+  },
+  {
+    "position": 16,
+    "title": "TCP over TCP is a bad idea (2000) (archive.org)",
+    "link": "https://web.archive.org/web/20230228035749/https://sites.inka.de/~W1011/devel/tcp-tcp.html",
+    "points": 32
+  },
+  {
+    "position": 17,
+    "title": "The Mindlessness of Ostensibly Thoughtful Action (1978) [pdf] (jamesclear.com)",
+    "link": "https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf",
+    "points": 25
+  },
+  {
+    "position": 18,
+    "title": "US satellite jammer is set for delivery as flaws are fixed (bloomberg.com)",
+    "link": "https://www.bloomberg.com/news/articles/2024-10-24/space-jammer-to-aim-at-russian-chinese-satellites-is-readied-as-flaws-are-fixed",
+    "points": 44
+  },
+  {
+    "position": 19,
+    "title": "Instant (YC S22) is hiring a founding engineer to build a modern Firebase (instantdb.com)",
+    "link": "https://www.instantdb.com/hiring",
+    "points": null
+  },
+  {
+    "position": 20,
+    "title": "Kronos: Soviet Processor Family for High-Level Languages (2006) [pdf] (hal.science)",
+    "link": "https://inria.hal.science/hal-01568396v1/document",
+    "points": 3
+  },
+  {
+    "position": 21,
+    "title": "LibNSFB \u2013 Framebuffer (bitmap on screen) abstraction library, written in C (netsurf-browser.org)",
+    "link": "https://www.netsurf-browser.org/projects/libnsfb/",
+    "points": 31
+  },
+  {
+    "position": 22,
+    "title": "19th-century photography technique employed in novel data storage method (ieee.org)",
+    "link": "https://spectrum.ieee.org/clark-johnson-profile",
+    "points": 42
+  },
+  {
+    "position": 23,
+    "title": "Jeff Bezos killed Washington Post endorsement of Kamala Harris (cnbc.com)",
+    "link": "https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html",
+    "points": 220
+  },
+  {
+    "position": 24,
+    "title": "Federal investigators probe Tether (wsj.com)",
+    "link": "https://www.wsj.com/finance/currencies/federal-investigators-probe-cryptocurrency-firm-tether-a13804e5",
+    "points": 76
+  },
+  {
+    "position": 25,
+    "title": "All political ads running on Google in the US (adstransparency.google.com)",
+    "link": "https://adstransparency.google.com/political?region=US&topic=political",
+    "points": 193
+  },
+  {
+    "position": 26,
+    "title": "Ikigai: The Japanese Secret to a Joyful Life (japan.go.jp)",
+    "link": "https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html",
+    "points": 55
+  },
+  {
+    "position": 27,
+    "title": "Infinite Git repos on Cloudflare workers (gitlip.com)",
+    "link": "https://gitlip.com/blog/infinite-git-repos-on-cloudflare-workers",
+    "points": 123
+  },
+  {
+    "position": 28,
+    "title": "Notes on the new Claude analysis JavaScript code execution tool (simonwillison.net)",
+    "link": "https://simonwillison.net/2024/Oct/24/claude-analysis-tool/",
+    "points": 124
+  },
+  {
+    "position": 29,
+    "title": "KitOps: Only Standards-Based Packaging and Versioning Tool for AI/ML Projects (kitops.ml)",
+    "link": "https://kitops.ml/docs/overview.html",
+    "points": 8
+  },
+  {
+    "position": 30,
+    "title": "Plastic chemical phthalate causes DNA breakage, chromosome defects, study finds (medicalxpress.com)",
+    "link": "https://medicalxpress.com/news/2024-10-plastic-chemical-phthalate-dna-breakage.html",
+    "points": 202
+  }
+]
